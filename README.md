@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+I'm currently a computer science student, and I want to become a game developper.
+This will be updated soon with more project I'm proud of.
+
+
 <!--
+
 **Loctryl/Loctryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
