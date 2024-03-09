@@ -1,10 +1,8 @@
-
 <header>
   
 </header>
 
 <body>
-
   <section>
     <div align="center">
       <h1> 🪶 Thibault (Loctyl) LE TALLEC </h1>
@@ -12,20 +10,29 @@
   </section>
 
   <section>
-    <div style="display: flex;">
-      <div style="flex: 50%;">
-        <h2> 🔖 A propos de moi : </h2>
-          <p> 🌍 Français - Juillet 2003</p>
-          <p> 📌 Etudiant en développement informatique - 3ème année</p>
-          <p> 📍 Lyon, France</p>
-      </div>
-      <div style="flex: 50%;">
-        <h2> 🔖 About me : </h2>
-          <p> 🌍 French - July 2003</p>
-          <p> 📌 Computer science student in graduating year </p>
-          <p> 📍 Lyon, France</p>
-      </div>
+    <div align="center">
+      <table>
+        <tr>
+          <th>🔖 A propos de moi :</th>
+          <th>🔖 About me :</th>
+        </tr>
+        <tr>
+          <td>🌍 Français - Juillet 2003</td>
+          <td>🌍 French - July 2003</td>
+        </tr>
+        <tr>
+          <td>📌 Etudiant en développement informatique - 3ème année</td>
+          <td>📌 Computer science student in graduating year</td>
+        </tr>
+      </table>
+    📍 Lyon, France
     </div>
+    <hr>
+      <p>Les univers numériques sont de grands vecteurs d’émotions. Ils produisent des mondes originaux et immersifs, permettant des expériences ludiques uniques en leur genre.<br>
+      La création de ces derniers en est d’autant plus impressionnante, et c’est ce qui me donnent envie de partager et faire découvrir ces mondes à mon tour.</p>
+      <p>Ayant un esprit logique, j’ai décidé de faire de la programmation ma vocation. Je m’intéresse aux évolutions du milieu et j’en explore les possibilités. De la conception de moteurs physique ou de rendu, aux méthodes ergonomiques d’interfaces utilisateurs.</p>
+      <p>Cependant, cette route est très compliquée à emprunter, donc je continue de m'intéresser et de m'investir dans d'autres sujets de programmation</p>
+    <hr>
         <p>Digital worlds are great vectors of emotions. They produce original and immersive worlds, allowing unique playful experiences.<br>
         The creation of these is all the more impressive, and this is what makes me want to share and make discover these worlds in my turn.</p>
         <p>Having a logical mind, I decided to make programming my vocation. I am interested in the evolution of the environment and I explore its possibilities. From the design of physical and rendering engines, to ergonomic methods of user interfaces.</p>
