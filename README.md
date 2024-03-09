@@ -30,6 +30,8 @@
     <a href="mailto:letallec.thibault@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    <h3>Or just :</h3>
+    <p>letallec.thibault@gmail.com</p>
   </section>  
 
   <h2>Here are some projects I worked on : </h2>
