@@ -5,7 +5,7 @@
 <body>
   <section>
     <div align="center">
-      <h1> 🪶 Thibault (Loctyl) LE TALLEC </h1>
+      <h1> ✍️ Thibault (Loctyl) LE TALLEC </h1>
     </div> 
   </section>
 
