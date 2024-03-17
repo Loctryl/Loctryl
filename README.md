@@ -36,7 +36,7 @@
 
   <h2>Here are some projects I worked on : </h2>
   <a href="https://loctryl.itch.io/" target="_blank">
-      <img src="https://img.shields.io/badge/ItchIo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/>
     </a>
 </body>
 
