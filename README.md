@@ -13,7 +13,7 @@
     <h2>🔖 About me :</h2>
       <p>🌍 French - July 2003</p>
       <p>📌 Computer science student in graduating year</p>
-      <p>📍 Lyon, France</p>
+      <p>📍 Les Sables d'Olonne, France</p>
       <hr>
       <p>Digital worlds are great vectors of emotions. They produce original and immersive worlds, allowing unique playful experiences.<br>
       The creation of these is all the more impressive, and this is what makes me want to share and make discover these worlds in my turn.</p>
