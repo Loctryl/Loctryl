@@ -18,7 +18,7 @@
       <p>Digital worlds are great vectors of emotions. They produce original and immersive worlds, allowing unique playful experiences.<br>
       The creation of these is all the more impressive, and this is what makes me want to share and make discover these worlds in my turn.</p>
       <p>Having a logical mind, I decided to make programming my vocation. I am interested in the evolution of the environment and I explore its possibilities. From the design of physical and rendering engines, to ergonomic methods of user interfaces.</p>
-      <p>Yet, this path is a really complicated one, especially in our time. So I keep myself interested and invested in various development subjects.</p>
+      <p>Yet, this path is a really complicated one, with not enough doors for everyone, so I keep myself interested and invested in various development subjects.</p>
     <hr>
   </section>
 
